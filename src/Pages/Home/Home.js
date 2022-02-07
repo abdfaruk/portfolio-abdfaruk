@@ -2,7 +2,7 @@ import { faGithub, faLinkedin, faStackOverflow } from '@fortawesome/free-brands-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Typewriter } from 'react-simple-typewriter';
-import image from '../../img/abdullah.png';
+import image from '../../img/abdullah.jpg';
 
 const Home = () => {
     return (
