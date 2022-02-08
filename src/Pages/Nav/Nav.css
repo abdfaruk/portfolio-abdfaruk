@@ -1,0 +1,14 @@
+.navstyle{
+    font-size: 18px;
+    margin-right: 20px;
+}
+.nav-logo{
+    font-size: 25px;
+}
+.blog{
+    padding: 3px 4px;
+}
+.blog:hover{
+    background-color:rgb(218, 213, 213);
+    border-radius: 5px;
+}
